@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @royferr
+- 👀 I’m interested in learning on how to code 
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me royferrellfr@gmail.com
+- 🫡i sometimes like to roast people 
+- 😶‍🌫 yeat
