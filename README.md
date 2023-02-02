@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me royferrellfr@gmail.com
-- 🫡i sometimes like to roast people 
-- 😶‍🌫 yeat
+- 🫥 I mean, i human
