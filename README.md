@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @royferr
-- 👀 I’m interested in learning on how to code 
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me royferrellfr@gmail.com
-- 🫥 I mean, i human
+<Hello I'm Roy>
+<I'm Currently Learning Python and html>
