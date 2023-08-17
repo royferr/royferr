@@ -1,2 +1,1 @@
-<Hello I'm Roy>
-<I'm Currently Learning Python and html>
+i am roy also known as a village idiot
