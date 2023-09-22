@@ -1,2 +1,7 @@
-hi my name roy i think yeah 
-how to reach me: address: 37 buckle harry road
+🤗 - roy
+
+🫥 - python, javascript, and html
+
+🤯 - surprisingly a human
+
+🏠 - 37 buckle harry road
