@@ -1,4 +1,8 @@
-
+### Hello My Name is Roy,
+* I like to code, (html, css, python)
+* also am a human
+* fact above is true
+* bye now i guess
 
 
 
